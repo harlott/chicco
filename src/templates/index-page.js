@@ -7,6 +7,9 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+import facebook from '../img/social/facebook.svg'
+import youtube from '../img/social/youtube.svg'
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -72,14 +75,32 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="content">
+                
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description} <br /> <Link to="/about">[Read More]</Link></h3>
-                    
                   </div>
                   <div className="columns is-multiline">
+                  <div className="column is-12 social">
+                    <a title="facebook" href="https://facebook.com" className="social__item">
+                      <img
+                        src={facebook}
+                        alt="Facebook"
+                        className="social__item__image"
+                        style={{ width: '2.5em', height: '2.5em' }}
+                      />
+                    </a>
+                    <a title="youtube" href="https://youtube.com" className="social__item">
+                      <img
+                        src={youtube}
+                        alt="youtube"
+                        className="social__item__image"
+                        style={{ width: '2.5em', height: '2.5em' }}
+                      />
+                    </a>
+                  </div>
                     {intro.blurbs.map(item => (
                       <div key={item.text} className="column is-12">
                           <div className="has-text-centered">
