@@ -7,7 +7,7 @@ subheading: A Soulful pianist in London!
 mainpitch:
   title: Who i Am
   description: |
-    I'm a pianist, arranger, composer.  
+    I'm a pianist, arranger, composer. I've worked with Chantae Cann, Tony Momrelle, Davide Shorty, 24 pesos, Jay Phelps, Marco Tamburini, and many others.
 description: 'Progetto 1, Progetto 2, Progetto 3'
 intro:
   blurbs:

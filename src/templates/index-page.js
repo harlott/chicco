@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -75,34 +76,23 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                    <h3 className="subtitle">{mainpitch.description} <br /> <Link to="/about">[Read More]</Link></h3>
+                    
                   </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
+                  <div className="columns is-multiline">
+                    {intro.blurbs.map(item => (
+                      <div key={item.text} className="column is-12">
+                        <section className="section">
+                          <div className="has-text-centered">
+                            <div style={{width: '340px'}}>
+                              <Img fluid={item.image.childImageSharp.fluid} alt={item.image.alt} />
+                            </div>
+                          </div>
+                          <br />
+                          <p>{item.text}</p>
+                        </section>
+                      </div>
+                    ))}
                   </div>
                 </div>
               </div>
@@ -177,7 +167,7 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 340, quality: 64) {
                   ...GatsbyImageSharpFluid
                 }
               }
