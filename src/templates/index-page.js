@@ -82,7 +82,6 @@ export const IndexPageTemplate = ({
                   <div className="columns is-multiline">
                     {intro.blurbs.map(item => (
                       <div key={item.text} className="column is-12">
-                        <section className="section">
                           <div className="has-text-centered">
                             <div style={{width: '340px'}}>
                               <Img fluid={item.image.childImageSharp.fluid} alt={item.image.alt} />
@@ -90,7 +89,6 @@ export const IndexPageTemplate = ({
                           </div>
                           <br />
                           <p>{item.text}</p>
-                        </section>
                       </div>
                     ))}
                   </div>
