@@ -67,10 +67,7 @@ const Navbar = class extends React.Component {
                 Video
               </Link>
               <Link className="navbar-item" to="/gallery">
-                Photo
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Tour
+                Gallery
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
