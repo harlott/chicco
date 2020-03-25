@@ -4,9 +4,7 @@ title: Photo Gallery
 ---
 ![](/img/70631323_10217686943438435_3764159400353202176_n.jpg)
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6mkOZe02JB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
 
 ![](/img/13909364_10154395393975682_405894578512175453_o.jpg)
 
