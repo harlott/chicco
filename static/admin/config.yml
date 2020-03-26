@@ -63,7 +63,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "video-page"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Videos, name: videos, widget: list, fields: [{label: Title, name: title, widget: text}, {label: Url, name: url, widget: text}]}]}     
+          - {label: Intro, name: intro, widget: object, fields: [{label: Videos, name: videos, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Url, name: url, widget: string}]}]}     
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

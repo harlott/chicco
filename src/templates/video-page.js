@@ -5,8 +5,6 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const VideoPageTemplate = ({ title, videos }) => {
-  const PageContent = contentComponent || Content
-
   return (
     <section className="section section--gradient">
       <div className="container">
@@ -19,7 +17,11 @@ export const VideoPageTemplate = ({ title, videos }) => {
               {videos.map(video => (
                 <div className="video-container">
                   <h3>{video.title}</h3>
-                  <iframe src={video.url}></iframe>
+                  <iframe
+                  className="video-item"
+                    src={video.url}
+                    allowfullscreen
+                  ></iframe>
                 </div>
               ))}
             </div>

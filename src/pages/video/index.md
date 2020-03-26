@@ -5,6 +5,9 @@ intro:
   videos:
     - title: video 1
       url: > 
-        https://www.youtube.com/embed/MGf4l68-17Y 
+        https://www.youtube.com/embed/MGf4l68-17Y
+    - title: video 2
+      url: > 
+        https://www.youtube.com/embed/MGf4l68-17Y     
 
 ---
