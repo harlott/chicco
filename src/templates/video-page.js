@@ -54,9 +54,14 @@ export default VideoPage
 export const videoPageQuery = graphql`
   query VideoPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      html
       frontmatter {
-        title
+        title,
+        intro{
+          videos{
+            title,
+            url
+          }
+        }
       }
     }
   }
