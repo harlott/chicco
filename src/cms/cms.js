@@ -4,6 +4,7 @@ import cloudinary from 'netlify-cms-media-library-cloudinary'
 
 import AboutPagePreview from './preview-templates/AboutPagePreview'
 import GalleryPagePreview from './preview-templates/GalleryPagePreview'
+import VideoPagePreview from './preview-templates/VideoPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
@@ -16,3 +17,4 @@ CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
 CMS.registerPreviewTemplate('gallery', GalleryPagePreview)
+CMS.registerPreviewTemplate('video', VideoPagePreview)
