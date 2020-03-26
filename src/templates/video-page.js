@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const VideoPageTemplate = ({ title, content, contentComponent }) => {
+export const VideoPageTemplate = ({ title, videos }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -16,7 +16,12 @@ export const VideoPageTemplate = ({ title, content, contentComponent }) => {
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <PageContent className="content video" content={content} />
+              {videos.map(video => (
+                <div className="video-container">
+                  <h3>{video.title}</h3>
+                  <iframe src={video.url}></iframe>
+                </div>
+              ))}
             </div>
           </div>
         </div>
@@ -27,26 +32,30 @@ export const VideoPageTemplate = ({ title, content, contentComponent }) => {
 
 VideoPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
+  intro: PropTypes.shape({
+    videos: PropTypes.array,
+  }),
 }
 
 const VideoPage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
       <VideoPageTemplate
-        contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
+        title={frontmatter.title}
+        videos={frontmatter.intro.videos}
       />
     </Layout>
   )
 }
 
 VideoPage.propTypes = {
-  data: PropTypes.object.isRequired,
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.shape({
+      frontmatter: PropTypes.object,
+    }),
+  }),
 }
 
 export default VideoPage
