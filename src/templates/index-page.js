@@ -95,14 +95,27 @@ export const IndexPageTemplate = ({
                     </a>
                   </div>
                     {intro.blurbs.map(item => (
-                      <div key={item.text} className="column is-12">
-                          <div className="has-text-centered">
-                            <div style={{width: '340px'}}>
-                              <Img fluid={item.image.childImageSharp.fluid} alt={item.image.alt} />
-                            </div>
-                          </div>
-                          <br />
-                          <p>{item.text}</p>
+                      <div key={item.text} className="column is-10">
+                        <div style={{
+                          width: '100%',
+                          paddingTop: '40%',
+                          backgroundImage: `url(${!!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image})`, 
+                          backgroundPosition: 'top middle',
+                          backgroundRepeat: 'no-repeat',
+                          position: 'relative',
+                          }} >
+                          <span style={{
+                            color: 'white',
+                            fontSize: '1.5em',
+                            display: 'inline-block',
+                            width: '85%',
+                            position: 'absolute',
+                            top: '30%',
+                            left: 0,
+                            background: 'rgba(0,0,0, 0.6)',
+                            paddingLeft: '2em',
+                          }}>{item.text}</span>
+                        </div>
                       </div>
                     ))}
                   </div>
@@ -173,14 +186,13 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 340, quality: 64) {
+                fluid(maxWidth: 800, quality: 64) {
                   ...GatsbyImageSharpFluid
                 }
               }
             }
             text
           }
-          heading
         }
       }
     }
