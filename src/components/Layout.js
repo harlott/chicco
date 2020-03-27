@@ -124,6 +124,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+        <link href="https://fonts.googleapis.com/css?family=Sen&display=swap" rel="stylesheet" />
       </Helmet>
       <Navbar />
       <div>{children}</div>
