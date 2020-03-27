@@ -18,7 +18,6 @@ export const VideoPageTemplate = ({ title, videos }) => {
                 <div className="video-container">
                   <h3>{video.title}</h3>
                   <iframe
-                  className="video-item"
                     src={video.url}
                     allowfullscreen
                   ></iframe>
