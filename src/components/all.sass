@@ -10,7 +10,8 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 
-$chiccoTitleFont: 'Sen', sans-serif !important
+body
+  font-family: 'Sen', sans-serif !important;
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -141,12 +142,13 @@ $menu-label-color: $white-ter
   height: 100%;
   object-fit: cover;
 
-.video > div
+.video-container
   overflow: hidden;
   padding-top: 56.25%;
   position: relative;
+  margin-bottom: 1em;
 
-.video > div > iframe
+.video-container > iframe
   border: 0;
   height: 100%;
   left: 0;
