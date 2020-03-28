@@ -2,6 +2,12 @@
 templateKey: about-page
 title: About me
 ---
-![](/img/13963102_558466987693642_1692124028709897730_o.jpg)
+![](/img/chicco-music_cropped.png)
 
-I'm a pianist, arranger, composer. I've worked with Chantae Cann, Tony Momrelle, Davide Shorty, 24 pesos, Jay Phelps, Marco Tamburini,
+
+
+> I'm a pianist, arranger, composer. I'm an active member of 24 Pesos Blues Band and i play around Europe. I've founded CHARAMIRA, sicilian etno-pop band. I've worked with Tony Momrelle, Chantae Cann, Davide Shorty, Jay Phelps, Marco Tamburini, Cico Cicognani.
+>
+>
+
+I've studied piano at Conservatorium (externally) until VII year

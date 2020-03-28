@@ -4,9 +4,11 @@ title: Chicco Allotta
 image: /img/13925652_558466991026975_4668988234469395527_o.jpg
 subheading: A Soulful pianist in London!
 mainpitch:
+  description: >
+    I'm a pianist, arranger, composer. I'm an active member of 24 Pesos Blues
+    Band. I've worked with Tony Momrelle, Chantae Cann, Davide Shorty, Jay
+    Phelps, Marco Tamburini, and many others.
   title: Who i Am
-  description: |
-    I'm a pianist, arranger, composer. I've worked with Chantae Cann, Tony Momrelle, Davide Shorty, 24 pesos, Jay Phelps, Marco Tamburini, and many others.
 intro:
   blurbs:
     - image: /img/12592196_10153241455307455_383924824703631079_n.jpg
