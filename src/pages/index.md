@@ -11,13 +11,11 @@ mainpitch:
   title: Who i Am
 intro:
   blurbs:
-    - image: /img/12592196_10153241455307455_383924824703631079_n.jpg
-      text: Progetto 1
-    - image: /img/11232119_1083283435050067_8456134579110960429_o.jpg
-      text: Progetto 2
-    - image: /img/11703552_849615521788187_7889957811273091386_o.jpg
-      text: Progetto 3
     - image: /img/70631323_10217686943438435_3764159400353202176_n.jpg
-      text: Progetto 4
+      text: 24 Pesos Blues Band
+    - image: /img/11232119_1083283435050067_8456134579110960429_o.jpg
+      text: Giulio Malaisi Project
+    - image: /img/11703552_849615521788187_7889957811273091386_o.jpg
+      text: Tony Momrelle Band
 ---
 
