@@ -77,7 +77,7 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns is-multiline">
                   <div className="column is-12 social">
-                    <a title="facebook" href="https://www.facebook.com/chicco.allotta.9" className="social__item">
+                    <a title="facebook" target="_blank" href="https://www.facebook.com/chicco.allotta.9" className="social__item">
                       <img
                         src={facebook}
                         alt="Facebook"
@@ -85,7 +85,7 @@ export const IndexPageTemplate = ({
                         style={{ width: '2.5em', height: '2.5em' }}
                       />
                     </a>
-                    <a title="youtube" href="https://www.youtube.com/channel/UCr3dLDc2MUMauvexqzBIZsA" className="social__item">
+                    <a title="youtube" target="_blank" href="https://www.youtube.com/channel/UCr3dLDc2MUMauvexqzBIZsA" className="social__item">
                       <img
                         src={youtube}
                         alt="youtube"
