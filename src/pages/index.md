@@ -6,9 +6,9 @@ subheading: A Soulful pianist in London!
 mainpitch:
   description: >
     I'm a pianist, arranger, composer. I'm an active member of 24 Pesos Blues
-    Band. I've worked with Tony Momrelle, Chantae Cann, Davide Shorty, Jay
-    Phelps, Marco Tamburini, and many others.
-  title: Who i Am
+    Band. I've worked with Tony Momrelle, Chantae Cann, Heidi Joubert, Davide
+    Shorty, Jay Phelps, Marco Tamburini, and many others.
+  title: About Me
 intro:
   blurbs:
     - image: /img/70631323_10217686943438435_3764159400353202176_n.jpg
