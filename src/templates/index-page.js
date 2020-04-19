@@ -73,7 +73,7 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description} <br /> <Link to="/about">[Read More]</Link></h3>
+                    <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                   <div className="columns is-multiline">
                   <div className="column is-12 social">
