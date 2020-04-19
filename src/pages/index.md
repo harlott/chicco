@@ -15,7 +15,7 @@ intro:
       text: 24 Pesos Blues Band
     - image: /img/11232119_1083283435050067_8456134579110960429_o.jpg
       text: Giulio Malaisi Project
-    - image: /img/11703552_849615521788187_7889957811273091386_o.jpg
+    - image: /img/momrelle.jpeg
       text: Tony Momrelle Band
 ---
 
