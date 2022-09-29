@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
       className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          !!image?.childImageSharp ? image?.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
@@ -99,7 +99,7 @@ export const IndexPageTemplate = ({
                         <div style={{
                           width: '100%',
                           paddingTop: '40%',
-                          backgroundImage: `url(${!!item.image.childImageSharp ? item.image.childImageSharp.fluid.src : item.image})`, 
+                          backgroundImage: `url(${!!item?.image?.childImageSharp ? item.image.childImageSharp.fluid.src : item.image})`, 
                           backgroundPosition: 'top middle',
                           backgroundRepeat: 'no-repeat',
                           position: 'relative',
