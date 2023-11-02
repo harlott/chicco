@@ -2,8 +2,6 @@
 templateKey: gallery-page
 title: Photo Gallery
 ---
-![](/img/screenshot-from-2022-09-29-09-19-39.png)
-
 ![](/img/13909364_10154395393975682_405894578512175453_o.jpg)
 
 ![](/img/21199629_10210222409052895_6958668717678957559_o.jpg)
