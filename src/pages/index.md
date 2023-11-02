@@ -11,7 +11,7 @@ mainpitch:
   title: About Me
 intro:
   blurbs:
-    - image: /img/screenshot-from-2022-09-29-09-19-39.png
+    - image: /img/11232119_1083283435050067_8456134579110960429_o.jpg
       text: Incognito
     - image: /img/11232119_1083283435050067_8456134579110960429_o.jpg
       text: Giulio Malaisi Project
