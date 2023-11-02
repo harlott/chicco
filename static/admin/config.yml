@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master
-  commit_messages:
+  name: github
+  branch: develop
+  repo: harlott/chicco-next # change this to your repo
+  base_url: https://chicco-cms-auth.onrender.com/ # change this to your OAuth server  commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
     delete: 'Delete {{collection}} “{{slug}}”'
