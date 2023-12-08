@@ -7,10 +7,10 @@ export default function Index({ data }) {
       <Head>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>CHICCO</title>
+        <title>Chicco Allotta: pianist in London!</title>
         <meta
           name="description"
-          content="Chicco Description"
+          content="Chicco Allotta is a pianist based in London."
         />
       </Head>
       <HomePage data={data} />
