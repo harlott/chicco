@@ -1,16 +1,7 @@
 import path from 'path';
 import fs from 'fs';
 import fsp from 'fs/promises';
-import remarkParseModule from 'remark-parse';
-import remarkFrontmatterModule from 'remark-frontmatter';
-import remarkStringifyModule from 'remark-stringify';
-import { read } from 'to-vfile';
-import unified from 'unified';
-import unifiedPluginHandlingYamlMatter from './unifiedPluginHandlingYamlMatter.mjs';
-
-const remarkParse = remarkParseModule.default ?? remarkParseModule;
-const remarkFrontmatter = remarkFrontmatterModule.default ?? remarkFrontmatterModule;
-const remarkStringify = remarkStringifyModule.default ?? remarkStringifyModule;
+import matter from 'gray-matter';
 
 const DIRECTORY_NAME = 'data';
 const DIRECTORY_PATH = path.join(process.cwd(), DIRECTORY_NAME);
@@ -24,28 +15,21 @@ async function resetOutputDir() {
 }
 
 async function parseYamlToJson(fullFilePath) {
-  const file = await unified()
-  .use(remarkParse)
-  .use(remarkStringify)
-  .use(remarkFrontmatter)
-  .use(unifiedPluginHandlingYamlMatter)
-  .process(await read(fullFilePath));
-
-  return file.data.matter ?? {};
+  const raw = await fsp.readFile(fullFilePath, 'utf8');
+  const parsed = matter(raw);
+  return parsed.data ?? {};
 }
 
 async function writeJsonFile(fileName, jsonData, subdir) {
-  const fileNameWithoutExt = path.parse(fileName).name;
-
+  const fileNameToWrite = path.parse(fileName).name;
   const outputDir = subdir
     ? path.join(DIRECTORY_JSON_TO_WRITE, subdir)
     : DIRECTORY_JSON_TO_WRITE;
 
   await fsp.mkdir(outputDir, { recursive: true });
 
-  const outputFilePath = path.join(outputDir, `${fileNameWithoutExt}.json`);
+  const outputFilePath = path.join(outputDir, `${fileNameToWrite}.json`);
   await fsp.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2), 'utf8');
-
   console.log(`Written: ${outputFilePath}`);
 }
 
