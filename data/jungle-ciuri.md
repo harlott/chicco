@@ -1,18 +1,18 @@
 ---
 seo:
-  title: Chicco Allotta
-  description: Chicco
-  image: /media/chicco-top-poster.jpg
+  title: Jungle Ciuri signle release - Chicco Allotta
+  description: Jungle Ciuri signle release - Chicco Allotta
+  image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
-  title1: "Chicco Allotta "
-  title2: Pianist
-  title3: In London
-  subheading: Always available for new projects as musician, musical director and arranger.
+  title1: "Jungle Ciuri "
+  title2: 2026
+  title3: Chicco Allotta
+  subheading: New single.
   subheadingContact: Contact me on Facebook!
-  videoMp4: /media/chicco-top.mp4
-  videoWebm: /media/chicco-top.webm
-  poster: /media/chicco-top-poster.jpg
+  videoMp4: /media/jungle-clip.mp4
+  videoWebm: /media/jungle-clip.webm
+  poster: /media/jungle-poster.jpg
 videoGallery:
   preTitle: ABOUT
   title: Watch what i'm doing
