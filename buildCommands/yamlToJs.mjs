@@ -1,5 +1,6 @@
 import path from 'path';
 import fs from 'fs';
+import fsp from 'fs/promises';
 import remarkParseModule from 'remark-parse';
 import remarkFrontmatterModule from 'remark-frontmatter';
 import remarkStringifyModule from 'remark-stringify';
