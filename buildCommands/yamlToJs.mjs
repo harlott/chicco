@@ -4,7 +4,8 @@ import remarkParse from 'remark-parse'
 import remarkFrontmatter from 'remark-frontmatter'
 import remarkStringify from 'remark-stringify'
 import { read } from 'to-vfile'
-import { unified } from 'unified'
+import pkg from 'unified'
+const { unified } = pkg
 import unifiedPluginHandlingYamlMatter from './unifiedPluginHandlingYamlMatter.mjs'
 
 const DIRECTORY_NAME = 'data';
