@@ -1,12 +1,15 @@
 import path from 'path';
 import fs from 'fs';
-import fsp from 'fs/promises';
-import remarkParse from 'remark-parse';
-import remarkFrontmatter from 'remark-frontmatter';
-import remarkStringify from 'remark-stringify';
+import remarkParseModule from 'remark-parse';
+import remarkFrontmatterModule from 'remark-frontmatter';
+import remarkStringifyModule from 'remark-stringify';
 import { read } from 'to-vfile';
-import unified from 'unified'
+import unified from 'unified';
 import unifiedPluginHandlingYamlMatter from './unifiedPluginHandlingYamlMatter.mjs';
+
+const remarkParse = remarkParseModule.default ?? remarkParseModule;
+const remarkFrontmatter = remarkFrontmatterModule.default ?? remarkFrontmatterModule;
+const remarkStringify = remarkStringifyModule.default ?? remarkStringifyModule;
 
 const DIRECTORY_NAME = 'data';
 const DIRECTORY_PATH = path.join(process.cwd(), DIRECTORY_NAME);
