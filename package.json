@@ -20,7 +20,8 @@
     "remark-parse": "^11.0.0",
     "remark-stringify": "^11.0.0",
     "to-vfile": "^8.0.0",
-    "vfile-matter": "^5.0.0"
+    "vfile-matter": "^5.0.0",
+    "gray-matter": "^4.0.3"
   },
   "engines": {
     "node": ">=18"
