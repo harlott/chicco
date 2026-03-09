@@ -24,11 +24,11 @@ async function resetOutputDir() {
 
 async function parseYamlToJson(fullFilePath) {
   const file = await unified()
-    .use(remarkParse)
-    .use(remarkStringify)
-    .use(remarkFrontmatter)
-    .use(unifiedPluginHandlingYamlMatter)
-    .process(await read(fullFilePath));
+  .use(remarkParse)
+  .use(remarkStringify)
+  .use(remarkFrontmatter)
+  .use(unifiedPluginHandlingYamlMatter)
+  .process(await read(fullFilePath));
 
   return file.data.matter ?? {};
 }
