@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Jungle Ciuri signle release - Chicco Allotta
-  description: Jungle Ciuri signle release - Chicco Allotta
+  title: Jungle Ciuri single release - Chicco Allotta
+  description: Jungle Ciuri single release - Chicco Allotta
   image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
