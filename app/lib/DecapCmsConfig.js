@@ -160,8 +160,8 @@ const DECAP_CMS_COLLECTIONS = [{
 const DECAP_CMS_CONFIG = {
   backend: {
     name: 'github',
-    branch: 'main',
-    repo: 'harlott/chicco-next',
+    branch: 'master',
+    repo: 'harlott/chicco',
     base_url: 'https://chicco-cms-auth.onrender.com/',
     show_preview_links: true
   },
