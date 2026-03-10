@@ -1,7 +1,7 @@
 import dynamic from "next/dynamic";
 import { useEffect } from 'react';
 import DECAP_CMS_CONFIG from "../app/lib/DecapCmsConfig";
-import HomePage from '../ui/HomePage.jsx';
+import HomePage from '../app/ui/HomePage.jsx';
 const CMS = dynamic(
   () => {
       return import("decap-cms-app")
