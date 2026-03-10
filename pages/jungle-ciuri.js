@@ -7,10 +7,10 @@ export default function Index({ data }) {
       <Head>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>CHICCO</title>
+        <title>{data?.seo?.title}</title>
         <meta
           name="description"
-          content="Chicco Description"
+          content={data?.seo?.description}
         />
       </Head>
       <HomePage data={data} />
