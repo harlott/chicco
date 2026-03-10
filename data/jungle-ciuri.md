@@ -1,6 +1,6 @@
 ---
 seo:
-  title: Jungle Ciuri single release 2026- Chicco Allotta
+  title: PREVIEW - Jungle Ciuri single release 2026 - Chicco Allotta
   description: Jungle Ciuri single release - Chicco Allotta
   image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
