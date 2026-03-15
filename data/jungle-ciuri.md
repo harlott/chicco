@@ -14,15 +14,10 @@ hero:
   videoWebm: /media/jungle-clip.webm
   poster: /media/jungle-poster.jpg
 videoGallery:
-  preTitle: ABOUT
-  title: Watch what i'm doing
-  text: "Italian (Sicily) born, London based piano player, recorder and arranger,
-    Chicco Allotta has been on the musical career for over thirty years. He has
-    been in the last eight years on London and international music scene. He is
-    currently a member of the Incognito group, with whom he is on world tour. He
-    has been founder and leader of sicilian band Charamira.  The collaborations
-    includes: Tony Momrelle, Chantae Cann, Heidi Joubert, Davide Shorty, Jay
-    Phelps, Marco Tamburini, and many others."
+  preTitle: Second Genie
+  title: EP release 2026
+  text: Second Genie is my new EP. You can listen it in streaming following the
+    link below
   image: /media/chicco_logo_120x161.png
 videos:
   - title: "1993"
