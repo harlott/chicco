@@ -18,7 +18,7 @@ videoGallery:
   title: Second Genie
   text: Second Genie is my new EP. You can listen it in streaming following the
     link below
-  image: /media/chicco_logo_120x161.png
+  image: /media/jungle-cover.jpg
 videos:
   - title: "1993"
     url: https://www.youtube.com/embed/MGf4l68-17Y
