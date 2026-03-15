@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Second Genie - EP release Aprile 2026 - Chicco Allotta
-  description: Second Genie - EP release Aprile 2026 - Chicco Allotta
+  title: Segunda Genie - EP release Aprile 2026 - Chicco Allotta
+  description: Segunda Genie - EP release Aprile 2026 - Chicco Allotta
   image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
