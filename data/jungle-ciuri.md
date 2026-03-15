@@ -1,29 +1,24 @@
 ---
 seo:
-  title: Jungle Ciuri single release - Chicco Allotta
-  description: Jungle Ciuri single release - Chicco Allotta
+  title: Segunda Genie - EP release Aprile 2026 - Chicco Allotta
+  description: Segunda Genie - EP release Aprile 2026 - Chicco Allotta
   image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
-  title1: "Jungle Ciuri "
-  title2: 2026
+  title1: Segunda Genie
+  title2: " "
   title3: Chicco Allotta
-  subheading: New single.
+  subheading: "New EP release on April 2026 "
   subheadingContact: Contact me on Facebook!
   videoMp4: /media/jungle-clip.mp4
   videoWebm: /media/jungle-clip.webm
   poster: /media/jungle-poster.jpg
 videoGallery:
-  preTitle: ABOUT
-  title: Watch what i'm doing
-  text: "Italian (Sicily) born, London based piano player, recorder and arranger,
-    Chicco Allotta has been on the musical career for over thirty years. He has
-    been in the last eight years on London and international music scene. He is
-    currently a member of the Incognito group, with whom he is on world tour. He
-    has been founder and leader of sicilian band Charamira.  The collaborations
-    includes: Tony Momrelle, Chantae Cann, Heidi Joubert, Davide Shorty, Jay
-    Phelps, Marco Tamburini, and many others."
-  image: /media/chicco_logo_120x161.png
+  preTitle: EP release 2026
+  title: Segunda Genie
+  text: Segunda Genie is my new EP. You can listen it in streaming following the
+    link below
+  image: /media/jungle-cover.jpg
 videos:
   - title: "1993"
     url: https://www.youtube.com/embed/MGf4l68-17Y

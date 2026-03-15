@@ -105,46 +105,17 @@ const JUNGLE = {
       ]
     },
     {
-      label: 'Intro Sezione Video',
-      name: 'videoGallery',
+      label: 'Sezione EP',
+      name: 'epSection',
       widget: 'object',
       fields: [
         {label: 'Pre titolo', name: 'preTitle', widget: 'string'},
         {label: 'Titolo', name: 'title', widget: 'string'},
         {label: 'Testo', name: 'text', widget: 'string'},
         {label: 'Immagine', name: 'image', widget: 'image'},
+        {label: 'Contenuto', name: 'content', widget: 'markdown'},
       ],
     },
-    {
-      label: 'YouTube Video urls',
-      name: 'videos',
-      widget: 'list',
-      fields: [
-        {label: 'Titolo', name: 'title', widget: 'string'},
-        {label: 'url', name: 'url', widget: 'string'},
-      ],
-    },
-    {
-      label: 'Intro Sezione Galleria Immagini',
-      name: 'photoGallery',
-      widget: 'object',
-      fields: [
-        {label: 'Pre titolo', name: 'preTitle', widget: 'string'},
-        {label: 'Titolo', name: 'title', widget: 'string'},
-        {label: 'Testo', name: 'text', widget: 'string'},
-        {label: 'Immagine', name: 'image', widget: 'image'},
-      ],
-    },
-    {
-      label: 'Galleria Immagini',
-      name: 'photos',
-      widget: 'list',
-      fields: [
-        {label: 'Titolo', name: 'title', widget: 'string'},
-        {label: 'Immagine', name: 'image', widget: 'image'},
-      ],
-    },
-
   ]
 };
 

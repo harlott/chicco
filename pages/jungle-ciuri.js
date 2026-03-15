@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import HomePage from "../app/ui/HomePage";
+import HomePage from "../app/ui/JungleCiuri";
 
 export default function Index({ data }) {
   return (
