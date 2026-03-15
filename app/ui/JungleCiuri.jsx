@@ -1,7 +1,5 @@
 import Hero from "./Hero";
-import SectionIntro from "./SectionIntro";
-import MasonryGallery from './MasonryGallery';
-import Videos from "./Videos";
+import EpSection from "./EpSection";
 
 const TopNavbar = () => (
   <>
@@ -36,22 +34,14 @@ const JungleCiuri = ({ data }) => {
         videoWebm={data?.hero?.videoWebm}
         poster={data?.hero?.poster}
       />
-      <SectionIntro
+      <EpSection
         pretitle={data?.videoGallery.preTitle}
         title={data?.videoGallery.title}
         image={data?.videoGallery.image}
         text={data?.videoGallery.text}
       />
-      <Videos videos={data?.videos || []} />
-      <SectionIntro
-        pretitle={data?.photoGallery.preTitle}
-        title={data?.photoGallery.title}
-        image={data?.photoGallery.image}
-        text={data?.photoGallery.text}
-      />
-      <MasonryGallery media={data?.photos || []}/>
     </div>
   );
 };
 
-export default HomePage;
+export default JungleCiuri;
