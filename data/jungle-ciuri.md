@@ -5,7 +5,7 @@ seo:
   image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
-  title1: Second Genie
+  title1: Segunda Genie
   title2: " "
   title3: Chicco Allotta
   subheading: "New EP release on April 2026 "
@@ -15,8 +15,8 @@ hero:
   poster: /media/jungle-poster.jpg
 videoGallery:
   preTitle: EP release 2026
-  title: Second Genie
-  text: Second Genie is my new EP. You can listen it in streaming following the
+  title: Segunda Genie
+  text: Segunda Genie is my new EP. You can listen it in streaming following the
     link below
   image: /media/jungle-cover.jpg
 videos:

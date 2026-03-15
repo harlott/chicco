@@ -16,7 +16,6 @@ export default function EpSection({
             </h2>
             <div className="four spacing"></div>
             <img src={image || '/img/chicco_logo_120x161.png'} alt="" />
-            <div className="four spacing"></div>
             <p className="big-size">{text}</p>
           </div>
         </div>
