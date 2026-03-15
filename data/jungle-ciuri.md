@@ -1,14 +1,14 @@
 ---
 seo:
-  title: Jungle Ciuri single release Aprile 2026 - Chicco Allotta
-  description: Jungle Ciuri single release - Chicco Allotta
+  title: Second Genie - EP release Aprile 2026 - Chicco Allotta
+  description: Second Genie - EP release Aprile 2026 - Chicco Allotta
   image: /media/jungle-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
-  title1: "Jungle Ciuri "
-  title2: 2026
+  title1: Second Genie
+  title2: " "
   title3: Chicco Allotta
-  subheading: New single.
+  subheading: "New EP release on April 2026 "
   subheadingContact: Contact me on Facebook!
   videoMp4: /media/jungle-clip.mp4
   videoWebm: /media/jungle-clip.webm
