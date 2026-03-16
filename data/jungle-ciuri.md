@@ -62,6 +62,26 @@ epSection:
 
 
 
+    *Credits:*
+
+
+    *Keyboards and Vocals: Chicco aka Gioacchino Allotta*
+
+
+    *Drummer: Luca Barbato*
+
+
+    *Bass: Massimiliano Lagana’*
+
+
+    *Guitar: Luca Meneghello*
+
+
+    *Mixed e Masterized at TRP-Music*
+
+
+
+
     ### Jungle Ciuri 2.0 (Gioacchino Allotta)
 
 
@@ -109,6 +129,26 @@ epSection:
 
 
 
+    *Credits:*
+
+
+    *Keyboards and Vocals: Chicco aka Gioacchino Allotta*
+
+
+    *Drummer: Luca Barbato*
+
+
+    *Bass: Massimiliano Lagana’*
+
+
+    *Guitar: Luca Meneghello*
+
+
+    *Mixed e Masterized at TRP-Music*
+
+
+
+
     ### Father and Son (Gioacchino Allotta)
 
 
@@ -141,12 +181,30 @@ epSection:
 
 
 
+    *Credits:*
+
+
+    *Keyboards and Vocals: Chicco aka Gioacchino Allotta*
+
+
+    *Drummer: Luca Barbato*
+
+
+    *Bass: Massimiliano Lagana’*
+
+
+    *Guitar: Luca Meneghello*
+
+
+    *Mixed e Masterized at TRP-Music*
+
+
+
+
     ### Such a Cold (Gioacchino Allotta)
 
 
     Mi re do re la
-
-
 
 
     Mi re do re la sol mi do fa sol
@@ -180,6 +238,28 @@ epSection:
 
 
     Sol do ( repeat )
+
+
+
+
+    *Credits:*
+
+
+    *Keyboards and Vocals: Chicco aka Gioacchino Allotta*
+
+
+    *Drummer: Luca Barbato*
+
+
+    *Bass: Massimiliano Lagana’*
+
+
+    *Guitar: Luca Meneghello*
+
+
+    *Mixed e Masterized at TRP-Music*
+
+
 
 
     ### Trapani Maybe (Gioacchino Allotta)
@@ -217,22 +297,27 @@ epSection:
 
 
 
+    *Credits:*
+
+
+    *Keyboards and Vocals: Chicco aka Gioacchino Allotta*
+
+
+    *Drummer: Luca Barbato*
+
+
+    *Bass: Massimiliano Lagana’*
+
+
+    *Guitar: Luca Meneghello*
+
+
+    *Mixed e Masterized at TRP-Music*
+
+
+
+
     ### Mezzu Tempo in 13 (add track) (Gioacchino Allotta)
-
-
-    (Recorded at Colibri’ Sound Studio (LDN.UK) , ringraziare Bluey (Jean Paul
-
-
-    Monique,Owner) and Mo Hassler
-
-
-    (Pre Production Engineer,Owner) x avermi fatto registrare nella loro struttura
-
-
-    Bass: Immanuel Simelane(UK)
-
-
-    Drummer: Christopher Chikwanah (UK)
 
 
     Comu nu mezzo tempo staiu giro
@@ -271,8 +356,6 @@ epSection:
     Tu mi veni a circari e un m’attrovi mai
 
 
-
-
     Comu nu mezzu omu sulu
 
 
@@ -285,27 +368,26 @@ epSection:
     Ma t’arrabbi e addiventi forti
 
 
-    Tutti i brani del EP Segunda Genie sono stati eseguiti da
 
 
-    Drummer: Luca Barbato
+    *Credits:*
 
 
-    Bass: Massimiliano Lagana’
+    *Keyboards and Vocals: Chicco aka Gioacchino Allotta*
 
 
-    Guitar: Luca Meneghello
+    *Bass: Immanuel Simelane(UK)*
 
 
-    Keyboards and Vocals: Chicco aka Gioacchino Allotta
+    *Drummer: Christopher Chikwanah (UK)*
 
 
-    E registration, Mixati e Masterizzati ai TRP-Music.
+    *Recorded at Colibri’ Sound Studio (LDN.UK)*
 
 
-    Tranne MezzuTempo che ha i suoi crediti a parte
-  preTitle: chicco pre
-  title: chicco titolo
-  text: chicco testo
+    *A very special thanks to **Bluey** (Jean PaulMonique,Owner) and **Mo Hassler** (Pre Production Engineer,Owner)*
+  preTitle: NEW EP RELEASE 2026
+  title: SEGUNDAGENIE
+  text: " "
   image: /media/jungle-cover.jpg
 ---
