@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import HomePage from "../app/ui/JungleCiuri";
+import JungleCiuri from "../app/ui/JungleCiuri";
 
 export default function Index({ data }) {
   return (
@@ -13,7 +13,7 @@ export default function Index({ data }) {
           content={data?.seo?.description}
         />
       </Head>
-      <HomePage data={data} />
+      <JungleCiuri data={data} />
     </>
   );
 };
