@@ -1,3 +1,5 @@
+import ReactMarkdown from "react-markdown";
+
 export default function EpSection({
   pretitle,
   title,
@@ -20,7 +22,7 @@ export default function EpSection({
           </div>
         </div>
         <div className="four spacing"></div>
-        <p className="content">{content}</p>
+        <ReactMarkdown>{content}</ReactMarkdown>
         <div className="four spacing"></div>
       </div>
     </div>
