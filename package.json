@@ -9,18 +9,14 @@
     "decap-cms-app": "3.0.0",
     "next": "^14.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-markdown": "^9.0.0"
   },
   "devDependencies": {
     "dotenv": "^16.3.1",
     "eslint": "^8.52.0",
     "eslint-config-next": "^14.0.0",
     "prettier": "^3.0.3",
-    "remark-frontmatter": "^5.0.0",
-    "remark-parse": "^11.0.0",
-    "remark-stringify": "^11.0.0",
-    "to-vfile": "^8.0.0",
-    "vfile-matter": "^5.0.0",
     "gray-matter": "^4.0.3"
   },
   "engines": {
