@@ -35,10 +35,11 @@ const JungleCiuri = ({ data }) => {
         poster={data?.hero?.poster}
       />
       <EpSection
-        pretitle={data?.videoGallery.preTitle}
-        title={data?.videoGallery.title}
-        image={data?.videoGallery.image}
-        text={data?.videoGallery.text}
+        pretitle={data?.epSection?.preTitle}
+        title={data?.epSection?.title}
+        image={data?.epSection?.image}
+        text={data?.epSection?.text}
+        content={data?.epSection?.content}
       />
     </div>
   );
