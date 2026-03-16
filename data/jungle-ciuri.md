@@ -304,8 +304,8 @@ epSection:
 
 
     Tranne MezzuTempo che ha i suoi crediti a parte
-  preTitle: chicco pre
-  title: chicco titolo
-  text: chicco testo
+  preTitle: NEW EP RELEASE 2026
+  title: SEGUNDAGENIE
+  text: " "
   image: /media/jungle-cover.jpg
 ---
