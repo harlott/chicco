@@ -19,11 +19,11 @@ export default function EpSection({
             <div className="four spacing"></div>
             <img src={image || '/img/chicco_logo_120x161.png'} alt="" />
             <p className="big-size">{text}</p>
+            <div className="four spacing"></div>
+            <ReactMarkdown>{content}</ReactMarkdown>
+            <div className="four spacing"></div>
           </div>
         </div>
-        <div className="four spacing"></div>
-        <ReactMarkdown>{content}</ReactMarkdown>
-        <div className="four spacing"></div>
       </div>
     </div>
   );
