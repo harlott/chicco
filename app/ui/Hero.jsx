@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import Link from 'next/link';
 
 const HeroVideoSources = (props) => {
   return (
@@ -72,7 +73,7 @@ const Hero = ({
           </h1>
           <h2 className='thin'>
             {subheading || 'Always available for new projects as musician, musical director and arranger.'}
-            <a href="/jungle-ciuri" rel="noopener noreferrer">Visit SEGUNDA GENIE page</a>
+            <Link href="/jungle-ciuri" rel="noopener noreferrer">Visit SEGUNDA GENIE page</Link>
           </h2>
         </div>
       </div>
