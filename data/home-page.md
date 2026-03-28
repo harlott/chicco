@@ -41,6 +41,8 @@ videoGallery:
   image: /media/chicco_logo_120x161.png
 videos:
   - title: "1993"
+    url: https://www.youtube.com/embed/xLxYOZlbpq8?si=LBr9V9cT8CE5fN3V
+  - title: "1993"
     url: https://www.youtube.com/embed/uQfNAlmj9Lw?si=LkdnO5KdTJbSfB1l
   - title: "1993"
     url: https://www.youtube.com/embed/7GEKMFkoJ28?si=zbiNAXmPt4X1D-Jv
@@ -50,8 +52,6 @@ videos:
     url: https://www.youtube.com/embed/XuLN6XgkW10
   - title: "1993"
     url: https://www.youtube.com/embed/0gxY__-6hPo
-  - title: "1993"
-    url: https://www.youtube.com/embed/MGf4l68-17Y
 photoGallery:
   preTitle: PHOTO GALLERY
   title: Magic moments
