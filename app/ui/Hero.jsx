@@ -60,7 +60,6 @@ const Hero = ({
         <div className='overlay'></div>
         <div className='layer'>
           <h1 className='thin' id="to-be-update">
-            <Link href="/">
               {title1 &&
                 <><span className="fir">{ title1 || 'Chicco Allotta,'}</span><br /></>
               }
@@ -71,11 +70,10 @@ const Hero = ({
               {title3 &&
                 <span className="thir">{ title3 || 'in London!'}</span>
               }
-            </Link>
           </h1>
           <h2 className='thin'>
-            {subheading || 'Always available for new projects as musician, musical director and arranger.'}
-            <Link href="/jungle-ciuri" rel="noopener noreferrer">Visit SEGUNDA GENIE page</Link>
+            {subheading || 'Always available for new projects as musician, musical director and arranger.'}<br />
+            <Link href="/" rel="noopener noreferrer">Home</Link> <Link href="/jungle-ciuri" rel="noopener noreferrer">Sgunda Genie</Link>
           </h2>
         </div>
       </div>
