@@ -22,7 +22,7 @@ videoGallery:
     continents, including performances in luxury hotel circuits and on cruise
     ships worldwide. In 2003, he performed at one of Italy’s most prestigious
     national events, the Concerto del Primo Maggio in Rome, playing in front of
-    500,000 people as a member of his original band, Chiaramira. As keyboardist,
+    500,000 people as a member of his original band, Charamira. As keyboardist,
     vocalist, and principal composer, he played a central role in the production
     of the album “Adrenalina”, released by RWM and Edel Italia. After an
     extensive career in the Italian music industry, Chicco moved to London in
