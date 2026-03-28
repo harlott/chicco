@@ -8,7 +8,7 @@ hero:
   title1: "Chicco Allotta "
   title2: Pianist
   title3: In London
-  subheading: Always available for new projects as musician, musical director and arranger.
+  subheading: "“Secundagenie,” the debut solo album available from April 10, 2026 "
   subheadingContact: Contact me on Facebook!
   videoMp4: /media/chicco-top.mp4
   videoWebm: /media/chicco-top.webm
@@ -16,20 +16,18 @@ hero:
 videoGallery:
   preTitle: ABOUT
   title: Watch what i'm doing
-  text: “Secundagenie,” the debut solo album by Chicco Allotta and The Groovers,
-    will be available from April 10, 2026, featuring the radio single “Jungle
-    Ciuri 2.0”. Chicco Allotta is an accomplished Italian keyboardist, composer,
-    and arranger with a rich and diverse musical background. Classically trained
-    in piano from an early age, he has built a versatile career spanning
-    multiple continents, including performances in luxury hotel circuits and on
-    cruise ships worldwide. In 2003, he performed at one of Italy’s most
-    prestigious national events, the Concerto del Primo Maggio in Rome, playing
-    in front of 500,000 people as a member of his original band, Chiaramira. As
-    keyboardist, vocalist, and principal composer, he played a central role in
-    the production of the album “Adrenalina”, released by RWM and Edel Italia.
-    After an extensive career in the Italian music industry, Chicco moved to
-    London in 2014. Thanks to his technical expertise and stylistic versatility,
-    he quickly gained recognition within the UK music scene, collaborating with
+  text: Chicco Allotta is an accomplished Italian keyboardist, composer, and
+    arranger with a rich and diverse musical background. Classically trained in
+    piano from an early age, he has built a versatile career spanning multiple
+    continents, including performances in luxury hotel circuits and on cruise
+    ships worldwide. In 2003, he performed at one of Italy’s most prestigious
+    national events, the Concerto del Primo Maggio in Rome, playing in front of
+    500,000 people as a member of his original band, Chiaramira. As keyboardist,
+    vocalist, and principal composer, he played a central role in the production
+    of the album “Adrenalina”, released by RWM and Edel Italia. After an
+    extensive career in the Italian music industry, Chicco moved to London in
+    2014. Thanks to his technical expertise and stylistic versatility, he
+    quickly gained recognition within the UK music scene, collaborating with
     numerous renowned artists and performing in high-profile clubs and
     festivals. His London-based collaborations include artists such as Davide
     “Shorty” Sciortino, 24 Pesos Band, Chantae Cann, Giulio Malaisi, Imaani
