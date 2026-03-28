@@ -6,8 +6,8 @@ seo:
 email: chiccoallottauk@gmail.com
 hero:
   title1: "Chicco Allotta "
-  title2: Pianist
-  title3: In London
+  title2: Piano player
+  title3: " "
   subheading: "“Secundagenie,” the debut solo album available from April 10, 2026 "
   subheadingContact: Contact me on Facebook!
   videoMp4: /media/chicco-top.mp4
