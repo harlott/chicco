@@ -16,13 +16,28 @@ hero:
 videoGallery:
   preTitle: ABOUT
   title: Watch what i'm doing
-  text: "Italian (Sicily) born, London based piano player, recorder and arranger,
-    Chicco Allotta has been on the musical career for over thirty years. He has
-    been in the last eight years on London and international music scene. He is
-    currently a member of the Incognito group, with whom he is on world tour. He
-    has been founder and leader of sicilian band Charamira.  The collaborations
-    includes: Tony Momrelle, Chantae Cann, Heidi Joubert, Davide Shorty, Jay
-    Phelps, Marco Tamburini, and many others."
+  text: Chicco Allotta is an accomplished Italian keyboardist, composer, and
+    arranger with a rich and diverse musical background. Classically trained in
+    piano from an early age, he has built a versatile career spanning multiple
+    continents, including performances in luxury hotel circuits and on cruise
+    ships worldwide. In 2003, he performed at one of Italy’s most prestigious
+    national events, the Concerto del Primo Maggio in Rome, playing in front of
+    500,000 people as a member of his original band, Chiaramira. As keyboardist,
+    vocalist, and principal composer, he played a central role in the production
+    of the album “Adrenalina”, released by RWM and Edel Italia. After an
+    extensive career in the Italian music industry, Chicco moved to London in
+    2014. Thanks to his technical expertise and stylistic versatility, he
+    quickly gained recognition within the UK music scene, collaborating with
+    numerous renowned artists and performing in high-profile clubs and
+    festivals. His London-based collaborations include artists such as Davide
+    “Shorty” Sciortino, 24 Pesos Band, Chantae Cann, Giulio Malaisi, Imaani
+    Saleem, and Tony Momrelle. In 2022, Bluey (Jean-Paul Maunick) invited Chicco
+    to join Incognito for an ongoing world tour. Between 2022 and 2023, the band
+    recorded their studio album “Into You” in London, featuring Chicco’s track
+    “1993”, which became one of the most iconic and celebrated pieces both on
+    record and live. Since then, Chicco has performed regularly at major
+    international jazz festivals and prestigious venues across Europe, the
+    United States, Japan, Indonesia, and South Africa.
   image: /media/chicco_logo_120x161.png
 videos:
   - title: "1993"
