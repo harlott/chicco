@@ -72,7 +72,7 @@ const Hero = ({
           </h1>
           <h2 className='thin'>
             {subheading || 'Always available for new projects as musician, musical director and arranger.'}
-            <a href="/jungle-ciuri" target="_blank" rel="noopener noreferrer">Visit SEGUNDA GENIE page</a>
+            <a href="/jungle-ciuri" rel="noopener noreferrer">Visit SEGUNDA GENIE page</a>
           </h2>
         </div>
       </div>
