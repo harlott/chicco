@@ -60,16 +60,18 @@ const Hero = ({
         <div className='overlay'></div>
         <div className='layer'>
           <h1 className='thin' id="to-be-update">
-            {title1 &&
-              <><span className="fir">{ title1 || 'Chicco Allotta,'}</span><br /></>
-            }
-            {
-              title2 &&
-              <><span className="sec">{ title2 || 'Pianist'}</span><br /></>
-            }
-            {title3 &&
-              <span className="thir">{ title3 || 'in London!'}</span>
-            }
+            <Link href="/">
+              {title1 &&
+                <><span className="fir">{ title1 || 'Chicco Allotta,'}</span><br /></>
+              }
+              {
+                title2 &&
+                <><span className="sec">{ title2 || 'Pianist'}</span><br /></>
+              }
+              {title3 &&
+                <span className="thir">{ title3 || 'in London!'}</span>
+              }
+            </Link>
           </h1>
           <h2 className='thin'>
             {subheading || 'Always available for new projects as musician, musical director and arranger.'}
