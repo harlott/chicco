@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import Link from 'next/link';
 
 const HeroVideoSources = (props) => {
   return (
@@ -59,20 +60,20 @@ const Hero = ({
         <div className='overlay'></div>
         <div className='layer'>
           <h1 className='thin' id="to-be-update">
-            {title1 &&
-              <><span className="fir">{ title1 || 'Chicco Allotta,'}</span><br /></>
-            }
-            {
-              title2 &&
-              <><span className="sec">{ title2 || 'Pianist'}</span><br /></>
-            }
-            {title3 &&
-              <span className="thir">{ title3 || 'in London!'}</span>
-            }
+              {title1 &&
+                <><span className="fir">{ title1 || 'Chicco Allotta,'}</span><br /></>
+              }
+              {
+                title2 &&
+                <><span className="sec">{ title2 || 'Pianist'}</span><br /></>
+              }
+              {title3 &&
+                <span className="thir">{ title3 || 'in London!'}</span>
+              }
           </h1>
           <h2 className='thin'>
-            {subheading || 'Always available for new projects as musician, musical director and arranger.'}
-            <a href="https://www.facebook.com/chicco.allotta.9" target="_blank" rel="noopener noreferrer">{subheadingContact || ' Contact me on Facebook'}</a>
+            {subheading || 'Always available for new projects as musician, musical director and arranger.'}<br />
+            <Link href="/" rel="noopener noreferrer">Home</Link> | <Link href="/jungle-ciuri" rel="noopener noreferrer">Segunda Genie</Link>
           </h2>
         </div>
       </div>
