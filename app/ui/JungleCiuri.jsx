@@ -1,5 +1,6 @@
 import Hero from "./Hero";
 import EpSection from "./EpSection";
+import SocialSection from './SocialSection';
 
 const TopNavbar = () => (
   <>
@@ -34,6 +35,7 @@ const JungleCiuri = ({ data }) => {
         videoWebm={data?.hero?.videoWebm}
         poster={data?.hero?.poster}
       />
+      <SocialSection />
       <EpSection
         pretitle={data?.epSection?.preTitle}
         title={data?.epSection?.title}
