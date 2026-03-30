@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Chicco Allotta
-  description: Chicco
+  title: Chicco Allotta - Piano Player
+  description: Chicco Alotta - Piano Player
   image: /media/chicco-top-poster.jpg
 email: chiccoallottauk@gmail.com
 hero:
