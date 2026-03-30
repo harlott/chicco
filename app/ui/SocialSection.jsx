@@ -1,9 +1,11 @@
+import Link from 'next/link';
+
 function SocialSection() {
   return(
     <div className="row" style={{ marginTop: '4%' }}>
       <div className="large-8 columns large-centered">
         <div className="section-title">
-          <a href="/">Facebook</a> | <a href="/">Instagram</a> | <a href="/">Youtube</a>
+          <Link href="/">Facebook</Link> | <Link href="/">Instagram</Link> | <Link href="/">Youtube</Link>
         </div>
       </div>
     </div>
