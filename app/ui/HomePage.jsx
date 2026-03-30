@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Hero from "./Hero";
 import SectionIntro from "./SectionIntro";
 import MasonryGallery from './MasonryGallery';
