@@ -36,6 +36,7 @@ const HomePage = ({ data }) => {
         videoWebm={data?.hero?.videoWebm}
         poster={data?.hero?.poster}
       />
+      <div><Link href="">Facebook</Link> | <Link href="">Instagram</Link> | <Link href="">Youtube</Link></div>
       <SectionIntro
         pretitle={data?.videoGallery.preTitle}
         title={data?.videoGallery.title}
