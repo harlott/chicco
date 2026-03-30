@@ -1,11 +1,12 @@
 import Link from 'next/link';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function SocialSection() {
   return(
     <div className="row" style={{ marginTop: '4%' }}>
       <div className="large-8 columns large-centered">
         <div className="section-title">
-          <Link href="/">Facebook</Link> | <Link href="/">Instagram</Link> | <Link href="/">Youtube</Link>
+          <Link href="/"><span className="fa-brands fa-facebook" style={{ color: '#1877f2' }} /></Link> | <Link href="/"><span className="fa-brands fa-instagram" style={{ color: '#e4405f' }} /></Link> | <Link href="/"><span className="fa-brands fa-youtube" style={{ color: '#ff0000' }} /></Link>
         </div>
       </div>
     </div>
