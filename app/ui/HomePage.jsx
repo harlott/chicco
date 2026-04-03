@@ -2,6 +2,7 @@ import Hero from "./Hero";
 import SectionIntro from "./SectionIntro";
 import MasonryGallery from './MasonryGallery';
 import Videos from "./Videos";
+import SocialSection from './SocialSection';
 
 const TopNavbar = () => (
   <>
@@ -36,6 +37,7 @@ const HomePage = ({ data }) => {
         videoWebm={data?.hero?.videoWebm}
         poster={data?.hero?.poster}
       />
+      <SocialSection />
       <SectionIntro
         pretitle={data?.videoGallery.preTitle}
         title={data?.videoGallery.title}
