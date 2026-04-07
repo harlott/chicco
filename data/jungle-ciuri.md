@@ -33,6 +33,74 @@ photos:
     image: /media/chicco03.jpg
 epSection:
   content: >-
+    **From April 10, 2026, “Segunda genie”,** the new album by Chicco Allotta
+    and The Groovers, will be available on all digital platforms. The album
+    features the radio single “Jungle Ciuri 2.0”.
+
+
+    ### Jungle Ciuri 2.0
+
+
+    With “Jungle Ciuri 2.0,” Chicco Allotta delivers a bold artistic statement, transforming one of the most iconic and stereotypically joyful symbols of Sicilian tradition into an ironic and melancholic protest song.
+
+    The track goes beyond simply referencing the famous folk refrain of “Ciuri Ciuri,” instead deconstructing it and reimagining it within a contemporary, deeply introspective dimension.
+
+    The song’s sonic architecture unfolds as an unpredictable rhythmic journey, beginning with a warm, enveloping reggae arrangement before quickly evolving into the frenetic pulse of drum & bass. This rhythmic contrast forms the beating heart of the track, where a nearly rapped verse erupts into the cathartic cry “pruvari sempri raggia” (“always feeling anger”), obsessively repeated like a visceral mantra.
+
+    Rather than offering an objective or critical judgment of his homeland, the lyrics represent a personal introspection, drawing from the artist’s own experiences and adapting words to reflect the emotional landscape shaped by contemporary society. In “Jungle Ciuri 2.0,” Sicilian tradition collides and merges with modern London electronic influences, perfectly reflecting the artistic duality of a musician who, while living abroad, maintains a deep and complex connection to his roots.
+
+
+    ### The official music video for “Jungle Ciuri 2.0” originated from a live studio recording session during the production of the "Segunda Genie" EP.
+
+
+    To enhance the visual storytelling and emphasize the track’s dynamic
+
+    nature, the studio footage is interwoven with outdoor scenes, creating an edit that alternates between the band’s raw in-studio energy and more evocative, introspective moments.
+
+
+
+
+    **“Segunda genie”** is the debut album by Sicilian keyboardist Chicco Allotta, a member of Incognito and currently based in London, released under TRP Music. The record showcases a Nu-Jazz sound blending ethno, jazz, and fusion elements, while maintaining a deep connection to the artist’s Sicilian roots.
+
+
+    The album features six original tracks written entirely by Allotta, with the sole exception of a reinterpretation of the traditional Sicilian classic Vitti ‘na crozza.
+
+
+    Chicco Allotta (vocals and keyboards) is joined by an outstanding band: Massimiliano Laganà on bass, Luca Barbato on drums, and Luca Meneghello on guitar.
+
+
+    This project represents the realization of an idea nurtured over many years, finally brought to life thanks to the collaboration with these musicians and the production of TRP Music.
+
+
+    Commenting on the new project, the artist says:
+
+
+    “My solo project has finally come to life. It’s a moment of great excitement — I’m very happy with the work we’ve done and can’t wait to perform it live in your cities. See you soon.”
+
+
+    **TRACK-LIST:**
+
+
+    Jungle Ciuri 2.0
+
+
+    Father and Son
+
+
+    Trapani Maybe
+
+
+    Such a Cold
+
+
+    Vitti 'na crozza
+
+
+    Mezzutempu in 13
+
+
+
+
     ### Vitti na Crozza
 
 
@@ -60,8 +128,6 @@ epSection:
     Puru i sireni ci fannu l’amuri
 
 
-
-
     *Credits:*
 
 
@@ -78,8 +144,6 @@ epSection:
 
 
     *Mixed e Masterized at TRP-Music*
-
-
 
 
     ### Jungle Ciuri 2.0 (Gioacchino Allotta)
@@ -127,8 +191,6 @@ epSection:
     avilla sempri cu tutti ma un parlari (x2)
 
 
-
-
     *Credits:*
 
 
@@ -145,8 +207,6 @@ epSection:
 
 
     *Mixed e Masterized at TRP-Music*
-
-
 
 
     ### Father and Son (Gioacchino Allotta)
@@ -179,8 +239,6 @@ epSection:
     Si re mi fa miiiiiiii (repeat at the end )
 
 
-
-
     *Credits:*
 
 
@@ -197,8 +255,6 @@ epSection:
 
 
     *Mixed e Masterized at TRP-Music*
-
-
 
 
     ### Such a Cold (Gioacchino Allotta)
@@ -240,8 +296,6 @@ epSection:
     Sol do ( repeat )
 
 
-
-
     *Credits:*
 
 
@@ -258,8 +312,6 @@ epSection:
 
 
     *Mixed e Masterized at TRP-Music*
-
-
 
 
     ### Trapani Maybe (Gioacchino Allotta)
@@ -295,8 +347,6 @@ epSection:
     Fa sol mi re re sol do si do Sol
 
 
-
-
     *Credits:*
 
 
@@ -313,8 +363,6 @@ epSection:
 
 
     *Mixed e Masterized at TRP-Music*
-
-
 
 
     ### Mezzu Tempo in 13 (add track) (Gioacchino Allotta)
@@ -366,8 +414,6 @@ epSection:
 
 
     Ma t’arrabbi e addiventi forti
-
-
 
 
     *Credits:*
